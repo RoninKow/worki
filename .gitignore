@@ -1,0 +1,27 @@
+```
+# Build artifacts
+build/
+dist/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.python-version
+
+# Excel files
+*.xlsx
+*.xls
+
+# Spec files
+*.spec
+
+# Logs
+*.log
+```
